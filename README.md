@@ -12,7 +12,7 @@ I’m passionate about creating solutions that drive user engagement and busines
 - 🌱 Previously worked at **Funsol Technologies** and **Dcodax Pvt. Ltd.**
 - 💡 Skilled in **Flutter**, **Firebase**, **Server-side Integrations**, and **CI/CD Automation**
 - ⚡ I love building **AI-powered**, **revenue-generating**, and **high-performing** mobile apps
-- 📍 Based in **Islamabad, Pakistan**
+- 📍 Based in **Pakistan**
 
 ---
 
