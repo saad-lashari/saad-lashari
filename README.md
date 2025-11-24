@@ -42,17 +42,24 @@ Push Notifications · Ads Integration (AdMob) · App Publishing · Unit Testing 
 
 #### 🛵 **JJ’s Deliveries (Flutter)**
 A full-featured food delivery app for seamless ordering from local restaurants with real-time tracking.  
-🔗 [Live on Play Store](https://play.google.com/store/apps/developer?id=JJ%27s+Deliveries&hl=en)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/developer?id=JJ%27s+Deliveries&hl=en)
+&nbsp;
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">]()
 
 #### 🏦 **Pioneer Auctions (Flutter)**
 Developed a live auction platform with real-time bidding, live streaming, and 24/7 sale-purchase features.  
-🔗 [Live on Play Store](https://play.google.com/store/apps/details?id=com.pioneerauctions.app&hl=en)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/details?id=com.pioneerauctions.app&hl=en)
+&nbsp;
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">]()
 
 #### 🤖 **UpAlerts (Flutter)**
 An AI-powered assistant app for freelancers featuring job alerts, smart cover letters, and productivity tools.  
-🔗 [Live on Play Store](https://play.google.com/store/apps/details?id=com.upalerts.app&hl=en)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/details?id=com.upalerts.app&hl=en)
+&nbsp;
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">]()
 
 ---
+
 
 ### 🏆 Certificates
 - **Java Specialization** – [Coursera Verification](https://coursera.org/verify/PPMV96H8WSRR)
