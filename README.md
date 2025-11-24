@@ -8,8 +8,7 @@ I'm an experienced **Software Engineer** specializing in **Flutter** for cross-p
 I focus on building scalable, high-quality, and visually appealing applications with clean architecture and efficient performance.  
 I’m passionate about creating solutions that drive user engagement and business growth.
 
-- 🔭 Currently working at **Dedev** as a **Software Engineer (Flutter)**
-- 🌱 Previously worked at **Funsol Technologies** and **Dcodax Pvt. Ltd.**
+- 🌱 Previously worked at **Dedev**, **Funsol Technologies** and **Dcodax Pvt. Ltd**  as a **Software Engineer (Flutter).**
 - 💡 Skilled in **Flutter**, **Firebase**, **Server-side Integrations**, and **CI/CD Automation**
 - ⚡ I love building **AI-powered**, **revenue-generating**, and **high-performing** mobile apps
 - 📍 Based in **Pakistan**
