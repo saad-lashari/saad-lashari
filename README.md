@@ -68,7 +68,6 @@ An AI-powered assistant app for freelancers featuring job alerts, smart cover le
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/saad-lashari)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/saad-lashari)  
 📧 **saadlashari.sk@gmail.com**
 
 ---
