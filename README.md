@@ -43,19 +43,19 @@ Push Notifications · Ads Integration (AdMob) · App Publishing · Unit Testing 
 A full-featured food delivery app for seamless ordering from local restaurants with real-time tracking.  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/developer?id=JJ%27s+Deliveries&hl=en)
 &nbsp;
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">]()
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">](https://apps.apple.com/us/app/jjs-deliveries/id6449184726)
 
 #### 🏦 **Pioneer Auctions (Flutter)**
 Developed a live auction platform with real-time bidding, live streaming, and 24/7 sale-purchase features.  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/details?id=com.pioneerauctions.app&hl=en)
 &nbsp;
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">]()
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">](https://apps.apple.com/us/app/pioneer-auctions-ae/id1533962112)
 
 #### 🤖 **UpAlerts (Flutter)**
 An AI-powered assistant app for freelancers featuring job alerts, smart cover letters, and productivity tools.  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/details?id=com.upalerts.app&hl=en)
 &nbsp;
-[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">]()
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">](https://apps.apple.com/us/app/upalerts-ai-writer-alerts/id1658154022)
 
 ---
 
