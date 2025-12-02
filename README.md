@@ -41,22 +41,31 @@ Push Notifications · Ads Integration (AdMob) · App Publishing · Unit Testing 
 
 ####  **JJ’s Deliveries (Flutter)**
 A full-featured food delivery app for seamless ordering from local restaurants with real-time tracking.  
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/developer?id=JJ%27s+Deliveries&hl=en)
 &nbsp;
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">](https://apps.apple.com/us/app/jjs-deliveries/id6449184726)
 
 ####  **Pioneer Auctions (Flutter)**
-Developed a live auction platform with real-time bidding, live streaming, and 24/7 sale-purchase features.  
+Developed a live auction platform with real-time bidding, live streaming, and 24/7 sale-purchase features. 
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/details?id=com.pioneerauctions.app&hl=en)
 &nbsp;
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">](https://apps.apple.com/us/app/pioneer-auctions-ae/id1533962112)
 
 ####  **UpAlerts (Flutter)**
 An AI-powered assistant app for freelancers featuring job alerts, smart cover letters, and productivity tools.  
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/details?id=com.upalerts.app&hl=en)
 &nbsp;
 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="50">](https://apps.apple.com/us/app/upalerts-ai-writer-alerts/id1658154022)
 
+####  **EvPlug (Flutter)**
+Evplug EV charging station app; your traveling partner to charge your electric car with peace of mind.
+Evplug is one stop electric vehicle charging station platform. Evplug helps EV owners, EV fleet owners, and EV taxi owners to charge and make online payments in a few clicks at home, residential and public spaces
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/details?id=ma.evplug&hl=en)
+&nbsp;
 ---
 
 
