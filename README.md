@@ -68,7 +68,8 @@ An AI-powered assistant app for freelancers featuring job alerts, smart cover le
 
 ###  Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/saad-lashari)  
-📧 **saadlashari.sk@gmail.com**
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-brightgreen?style=flat&logo=whatsapp)](https://wa.me/923038146045)
+[![Email](https://img.shields.io/badge/Email-D83434?style=flat&logo=gmail&logoColor=white)](mailto:saadlashari.sk@gmail.com)
 
 ---
 
