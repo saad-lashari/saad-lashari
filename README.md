@@ -39,6 +39,15 @@ Push Notifications · Ads Integration (AdMob) · App Publishing · Unit Testing 
 
 ###  Featured Projects
 
+## <img src="https://play-lh.googleusercontent.com/F8TnFiU52JMfGg84iizhiN99mssdUvrdOIB0iKVLY_km3mzWxAX2Z3F1wKowhJxqv1NDHhCAydRjvKGU-2UT=w480-h960-rw" height="48" width="48" align="center" />  Bible Mastery
+
+Bible Mastery helps believers move from reading Scripture to truly retaining it — using spaced repetition science to build lasting comprehension, one habit at a time.
+
+A structured Bible learning and retention app designed for deep scriptural mastery.
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/details?id=com.biblemastery.app&hl=en)
+[<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="39">](https://apps.apple.com/us/app/bible-mastery-app/id6747673086)
+
 ## <img src="https://play-lh.googleusercontent.com/o2mCMpnqEP5f4o61TmuE9YHXf0LNqJr4ufXt_ioUTucnQhOnR0a-IFAgbdlExb9fTXasiUlB0bdlozIGIKgKUFk=w480-h960-rw" height="48" width="48" align="center" />  JJ's Deliveries
 
 A full-featured food delivery app for seamless ordering from local restaurants with real-time tracking.  
