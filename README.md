@@ -36,6 +36,22 @@ Sqflite · Hive · Caching
 Push Notifications · Ads Integration (AdMob) · App Publishing · Unit Testing · Threading (Isolates)  
 
 ---
+###  Own Projects
+
+## <img src="https://play-lh.googleusercontent.com/lM6LYyCGcGTUKaG0jmAQJX03Qn46oDtFlhx1Z0vRVjTT5mKRzfBHxJ3G9FncjKREH6tixuRbUOXTu0OG8W1Z=w480-h960-rw" height="48" width="48" align="center" />  BizPOS - Billing & Inventory
+
+BizPOS is a complete Point of Sale (POS) and inventory management app built for shop owners, retailers, wholesalers, distributors, and small-to-medium businesses who need fast, reliable billing and real-time stock control — even without internet.
+Whether you run a grocery store, pharmacy, electronics shop, clothing store, hardware store, or distribution business, BizPOS gives you one powerful app to manage your entire business operations from a single screen.
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/details?id=com.baloch.bizpos)
+
+## <img src="https://play-lh.googleusercontent.com/xOgcUd_cd2EZgi3lZX99I3Fi32SQAlDUr1DpUToUbQgtYM4Uee5W4665qT9VJTg1kw0b0NnINNh7SfYBzdxaqA=w480-h960-rw" height="48" width="48" align="center" />  Rider Manager
+
+This app is designed to help riders efficiently manage their rides and track earnings with ease. Riders can log daily trips, view ride history, and automatically calculate their total income. The clean and user-friendly interface makes it simple to stay organized and focused on performance. Whether you ride full-time or part-time, this app gives you a clear overview of your work and helps improve productivity. Stay on top of your goals and make smarter decisions with your rides and earnings.
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="39">](https://play.google.com/store/apps/details?id=com.rider.manage)
+
+---
 
 ###  Featured Projects
 
